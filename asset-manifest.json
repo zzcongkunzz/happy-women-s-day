@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/happy-womens-day/static/css/main.d1f68042.css",
+    "main.js": "/happy-womens-day/static/js/main.54302fda.js",
+    "static/js/453.9444bf89.chunk.js": "/happy-womens-day/static/js/453.9444bf89.chunk.js",
+    "index.html": "/happy-womens-day/index.html",
+    "main.d1f68042.css.map": "/happy-womens-day/static/css/main.d1f68042.css.map",
+    "main.54302fda.js.map": "/happy-womens-day/static/js/main.54302fda.js.map",
+    "453.9444bf89.chunk.js.map": "/happy-womens-day/static/js/453.9444bf89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f68042.css",
+    "static/js/main.54302fda.js"
+  ]
+}
